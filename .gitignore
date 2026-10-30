@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+tmp/
+
+# Candidate records require a separate release decision. Keep them outside Git
+# until the content and reuse conditions have been reviewed.
+data/*
+!data/README.md
+!data/haga_jinmei_records.csv
+!data/release_manifest.json

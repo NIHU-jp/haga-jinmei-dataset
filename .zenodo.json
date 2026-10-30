@@ -1,0 +1,21 @@
+{
+  "title": "Haga Jinmei Dictionary Dataset",
+  "upload_type": "dataset",
+  "description": "芳賀矢一編『日本人名辞典』（大倉書店、1914年）をもとにした、54,558項目・6列のデータセットです。項目数は人物数を意味しません。既知の空欄と未校訂文字については付属文書に記載しています。説明文書は日本語を正本とします。CC0 1.0で公開し、引用は再利用の条件とは別の学術上のお願いとしています。",
+  "creators": [
+    {
+      "name": "National Institutes for the Humanities"
+    }
+  ],
+  "publication_date": "2026-10-29",
+  "access_right": "open",
+  "license": "cc-zero",
+  "version": "0.1.0",
+  "language": "jpn",
+  "keywords": [
+    "Japanese history",
+    "biographical dictionary",
+    "digital humanities",
+    "historical persons"
+  ]
+}
